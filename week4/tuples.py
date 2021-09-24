@@ -51,4 +51,3 @@ for item in fruits_vegs:
     lst_tuples.append((item, item.upper(), len(item)))
 pprint(lst_tuples)
 
-
